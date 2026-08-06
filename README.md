@@ -1,4 +1,4 @@
-# NeetCode Solutions — @locifer18 
+# NeetCode Solutions — @locifer18
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
